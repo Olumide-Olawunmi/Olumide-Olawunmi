@@ -7,7 +7,7 @@ Hi! I’m a **Data Scientist and Analyst** with a focus on transforming complex 
 
 ##  🛠️  Core Technical Expertise
 
-### **Data Science & Analysis **
+### **Data Science & Analysis**
 - **Exploratory Data Analysis (EDA):** Uncover patterns and insights from structured and unstructured datasets using **statistical methods** and **visualization tools.**
 - **Business Intelligence:** Create intuitive dashboards and reports using **Power BI**, and **Python libraries (e.g., Plotly, Seaborn)** to enable data-driven decisions.
 
@@ -17,7 +17,7 @@ Hi! I’m a **Data Scientist and Analyst** with a focus on transforming complex 
 
 ---
 
-##📈 **What I Bring to the Table**
+## 💡 What I Bring to the Table
 - A sharp analytical approach to solving business problems with data-driven strategies.
 - **Semi-Hands-on experience** with large datasets and real-world modeling challenges.
 - An ability to simplify complex findings into clear, actionable insights for technical and non-technical stakeholders.
